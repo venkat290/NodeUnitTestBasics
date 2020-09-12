@@ -18,7 +18,7 @@
     "semistandard": "^9.2.1"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "mongoose": "^5.6.0"
   },
   "repository": {
